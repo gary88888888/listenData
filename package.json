@@ -1,0 +1,18 @@
+{
+  "name": "listendata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rodrigogs/mysql-events": "^0.6.0",
+    "mysql-events": "^0.0.1",
+    "underscore": "^1.13.1",
+    "websocket": "^1.0.34",
+    "zongji": "^0.5.1"
+  }
+}
